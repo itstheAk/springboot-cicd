@@ -1,4 +1,4 @@
 # springboot-cicd
 Springboot with CICD 
 
-[![Build Status](https://travis-ci.com/itstheak/springboot-cicd.svg)](https://travis-ci.com/itstheak/springboot-cicd)
+[![Build Status](https://app.travis-ci.com/itstheAk/springboot-cicd.svg?branch=main)](https://app.travis-ci.com/itstheAk/springboot-cicd.svg?branch=main)
